@@ -5,7 +5,7 @@ To run the analysis, use these commands in order:
 
 ```
 Rscript Src/Combine_data.R
-Rscript Src/Make_plot.R 
+Rscript Src/make_plot.R 
 ```
 
 All of the raw data is stored in "Data/Data_Raw". Within this file you will also find the metadata explaining where both the Melbourne and Oxford rainfall data was obtained. The combined data (processes and cleaned data) used to plot the graph can be found in "Data"
